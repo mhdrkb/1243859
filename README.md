@@ -1,4 +1,4 @@
 # 1243859
-HTML Project using Bootstrap
+HTML Project
 Live Here
 https://mhdrkb.github.io/1243859/. 
